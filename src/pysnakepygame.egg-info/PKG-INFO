@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: pysnakepygame
-Version: 0.2.0
+Version: 0.2.1
 Summary: Snake game written with Pygame
 Home-page: https://github.com/xXCoolinXx/Snake
 Author: Collin Francel
@@ -16,6 +16,10 @@ Description-Content-Type: text/markdown
 License-File: LICENSE
 
 # Snake
-Clone of Snake game written in Python.
+Clone of Snake game written in Python. <br>
+
+To install run `pip install pysnakepygame` and then run `snake` to play. <br>
+
+Available on PyPI <a href=https://pypi.org/project/pysnakepygame>here</a>.
 
 

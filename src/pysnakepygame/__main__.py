@@ -1,5 +1,3 @@
-import re
-from webbrowser import get
 import pygame as pyg
 import random
 import itertools as it
