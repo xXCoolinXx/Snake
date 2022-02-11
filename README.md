@@ -4,8 +4,8 @@
 ![Downloads](https://img.shields.io/github/license/xXCoolinXx/Snake.svg)
 [![Downloads](https://static.pepy.tech/personalized-badge/pysnakepygame?period=total&units=international_system&left_color=black&right_color=green&left_text=Downloads)](https://pepy.tech/project/pysnakepygame)
 
-Clone of Snake game written in Python. <br>
+Clone of Snake game written in Python.
 
-To install run `pip install pysnakepygame` and then run `snake` to play. <br>
+To install run `pip install pysnakepygame` and then run `snake` to play.
 
-Available on PyPI <a href=https://pypi.org/project/pysnakepygame>here</a>.
+Available on PyPI [here](https://pypi.org/project/pysnakepygame).
